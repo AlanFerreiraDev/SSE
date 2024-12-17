@@ -3,12 +3,11 @@
 - Front-end
 
   - Abra o terminal na pasta `front` e execute o comando `npm install`
-  - Após a instalação, execute o comando `npm start`
+  - Após a instalação, execute o comando `npm run start`
   - O projeto estará disponível em [http://localhost:3000](http://localhost:3000)
 
 - Back-end
-  - Abra o terminal na pasta `server` e execute o comando `npm install`
-  - Após a instalação, execute o comando `npm run dev`
+  - Abra o terminal na pasta `server` e execute o comando `node index.js`
   - O servidor estará disponível em [http://localhost:3333](http://localhost:3333)
 
 ## Tecnologias utilizadas
