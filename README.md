@@ -2,9 +2,9 @@
 
 - Front-end
 
-  - Abra o terminal na pasta `front` e execute o comando `npm install`
+  - Abra o terminal na pasta `front/sse-client` e execute o comando `npm install`
   - Após a instalação, execute o comando `npm run dev`
-  - O projeto estará disponível em [http://localhost:3000](http://localhost:3000)
+  - O projeto estará disponível em [http://localhost:5173](http://localhost:3000)
 
 - Back-end
   - Abra o terminal na pasta `server` e execute o comando `node index.js`
